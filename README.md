@@ -27,6 +27,7 @@ We conducted a thorough analysis of Apple Inc.'s financial health using various 
 
 Result Metrics
 Overvalued or Undervalued
+
 Actionable Insight
 Based on the findings from both analyses, we provide insights on whether to invest in Apple Inc.'s stock.
 
