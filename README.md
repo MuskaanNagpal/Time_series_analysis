@@ -13,6 +13,7 @@ Fundamental Analysis is based on economic foundations, financial reports, and re
 Time Series Forecasting
 
 Models Used:
+
 SARIMA (Seasonal Auto-Regressive Integrated Moving Average)
 
 Prophet
@@ -30,7 +31,7 @@ Fundamental Analysis
 Approach
 We conducted a thorough analysis of Apple Inc.'s financial health using various financial ratios and metrics, alongside examining the business environment both domestically and globally.
 
-Result Metrics
+Result Metrics:
 Overvalued or Undervalued
 
 Actionable Insight
