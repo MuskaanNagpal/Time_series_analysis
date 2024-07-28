@@ -12,11 +12,13 @@ Fundamental Analysis is based on economic foundations, financial reports, and re
 
 Time Series Forecasting
 
-Models Used
-
+Models Used:
 SARIMA (Seasonal Auto-Regressive Integrated Moving Average)
+
 Prophet
-Result Metrics
+
+Result Metrics:
+
 Mean Squared Error (MSE)
 Mean Absolute Percentage Error (MAPE)
 R2 Score
