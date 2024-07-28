@@ -11,13 +11,16 @@ Fundamental Analysis
 Fundamental Analysis is based on economic foundations, financial reports, and researching various business/industry aspects. It involves analyzing financial ratios, balance sheets, and the domestic & global business environments. The goal is to determine whether a security is undervalued or overvalued. In this project, we employed Intrinsic Valuation.
 
 Time Series Forecasting
+
 Models Used
+
 SARIMA (Seasonal Auto-Regressive Integrated Moving Average)
 Prophet
 Result Metrics
 Mean Squared Error (MSE)
 Mean Absolute Percentage Error (MAPE)
 R2 Score
+
 Problem Solved
 We developed mathematical models that capture the historical patterns and seasonality in Apple Inc.'s stock prices to forecast future values.
 
